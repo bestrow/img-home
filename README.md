@@ -1,2 +1,2 @@
-# img_warehouse
+# img-home
 自建图床
